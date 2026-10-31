@@ -1,0 +1,13 @@
+[33m3fc7643[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Add hotel dashboard interface and styling
+A	Frontend/index.html
+A	Frontend/script.js
+A	Frontend/style.css
+A	hotel.cpp
+[33m185459e[m Add room categories API endpoint
+M	Backend/server.cpp
+[33m917aa6a[m Set up C++ web server and SQLite database
+A	.gitignore
+A	Backend/httplib.h
+A	Backend/server.cpp
+[33m62fec87[m Initial commit
+A	README.md
